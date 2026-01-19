@@ -6,7 +6,7 @@
 
 ## 📌 Giới thiệu
 
-Repository này được sử dụng để **lưu trữ và quản lý các tài liệu học tập** trong quá trình học tập tại **Trường Đại học Công Nghệ Kỹ thuật TP.HCM (HCMUTE) **.
+Repository này được sử dụng để **lưu trữ và quản lý các tài liệu học tập** trong quá trình học tập tại **Trường Đại học Công Nghệ Kỹ thuật TP.HCM (HCMUTE)**.
 
 Nội dung bao gồm:
 - Bài giảng
